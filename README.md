@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&animation=scaleIn&section=header&text=ZellyToZelly&fontSize=70)
 
 <p align="center">Backend Developer</p>
-- 🌱 I’m currently learning -
+<p align="center">🌱 I’m currently learning</p>
 
+<br>
 
 <h2 align="center">✨ Tech Stack ✨</h2>
 
