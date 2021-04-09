@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
