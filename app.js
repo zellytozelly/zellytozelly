@@ -9,9 +9,9 @@ const express = require("express"),
 //MySQL 설정 추가
 const mysql = require('mysql');
 const con = mysql.createConnection({
-    host: 'localhost',
-    user: 'root',
-    password: ''
+    host: loginData.host,
+    user: loginData.user,
+    password: loginData.password
 });
 
 //DB연결확인
