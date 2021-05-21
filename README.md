@@ -1,3 +1,4 @@
-#TODOAPP
-#test
-what..?
+#ToDo App
+
+- group : Classify todo.
+- todo : Create To Do for Users.
