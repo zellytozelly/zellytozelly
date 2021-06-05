@@ -1,5 +1,3 @@
-
-
 const express = require("express"),
     app = express();
     http = require('http').createServer(app),
@@ -11,14 +9,10 @@ const mysql = require('mysql');
 const con = mysql.createConnection({
     host: loginData.host,
     user: loginData.user,
-    password: loginData.password
+    password: loginData.password,
+    database: ''
 });
 
-//DB연결확인
-con.connect(function(err){
-    if(err)throw err;
-    console.log('MySQL Connected');
-})
 
 app.use(express.static(__dirname + "/views")); //views 경로 static으로 만들기.
 
