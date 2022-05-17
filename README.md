@@ -3,12 +3,15 @@
 <p align="center">Frontend Developer</p>
 <p align="center">🌱 I’m currently learning</p>
 
+<div align="center">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zellytozelly&amp;theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zellytozelly&layout=compact&theme=buefy)
+</div>  
 <br>
 
 <h2 align="center">✨ Tech Stack ✨</h2>
 
 <p align="center"> Techs that I <b>want</b> to study </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
