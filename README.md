@@ -31,17 +31,18 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+</p>
+
 <p align="center">   
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-</p>
 
 <!--
 <p align="center">    
