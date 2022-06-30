@@ -42,14 +42,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
+<!--
 <p align="center">    
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>&nbsp;&nbsp;&nbsp;
-
 </p>
-
-
+-->
   
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon%20aws&logoColor=white"/>&nbsp;&nbsp;&nbsp;
